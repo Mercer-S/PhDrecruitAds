@@ -5,8 +5,33 @@ title: PhD Scholarships
 description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: Title: PhD Position in Artificial Intelligence for Timber Structure Design Optimisation 
 
+The School of Engineering at RMIT University, Australia, invites applications for a fully-funded PhD position. The project aims to address the pressing challenges in the timber frame residential buildings sector, which represents a significant portion of the Australian construction industry. 
+
+Despite the known benefits of timber structures, several production and workmanship issues remain unresolved. This project will investigate the application of Artificial Intelligence (AI) and other advanced digital technologies to optimise timber structure design, cost efficiency, resource usage, sustainability, and productivity. 
+
+Key Responsibilities: 
+
+Conduct a comprehensive literature review on machine learning, genetic algorithms, and neural networks. Identify suitable AI techniques for timber structure design optimisation and provide a detailed report on selected AI techniques, their applicability, and potential synergies. 
+
+Develop an AI model incorporating reinforcement learning and deep learning to optimise timber structure design. The model should consider factors like financial effectiveness, material consumption, environmental impact, and work efficiency. An analysis of feature importance and model interpretability will be part of this task. 
+
+Validate the developed AI model using cross-validation and transfer learning in case studies. Develop practical guidelines for AI implementation, based on AI ethics and best practices. 
+
+Anticipated Outcomes: 
+
+A comprehensive AI model for intelligently optimising timber structure design. 
+
+Practical guidelines for integrating AI into timber structure design, manufacturing, and commissioning processes. 
+
+Application Requirements: 
+
+Candidates should have a Master's degree in civil engineering, computer science, or related fields. Previous experience in AI, machine learning, or structural engineering is advantageous. 
+
+Interested candidates should send their CV, motivation letter, and two reference letters to [insert email address]. The position remains open until filled, but for full consideration, please apply by [insert deadline]. 
+
+RMIT University is committed to equity, diversity, and inclusion and encourages applications from all qualified individuals. 
 # Add your social links
 social:
   - platform: github
