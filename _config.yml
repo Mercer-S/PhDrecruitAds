@@ -7,31 +7,10 @@ description:  The beautiful website of artist, poet, craftsperson, cyclist, and 
 # A brief blurb about yourself
 content: Title: PhD Position in Artificial Intelligence for Timber Structure Design Optimisation 
 
-The School of Engineering at RMIT University, Australia, invites applications for a fully-funded PhD position. The project aims to address the pressing challenges in the timber frame residential buildings sector, which represents a significant portion of the Australian construction industry. 
+quity, diversity, and inclusion and encourages applications from all qualified individuals. 
 
-Despite the known benefits of timber structures, several production and workmanship issues remain unresolved. This project will investigate the application of Artificial Intelligence (AI) and other advanced digital technologies to optimise timber structure design, cost efficiency, resource usage, sustainability, and productivity. 
 
-Key Responsibilities: 
 
-Conduct a comprehensive literature review on machine learning, genetic algorithms, and neural networks. Identify suitable AI techniques for timber structure design optimisation and provide a detailed report on selected AI techniques, their applicability, and potential synergies. 
-
-Develop an AI model incorporating reinforcement learning and deep learning to optimise timber structure design. The model should consider factors like financial effectiveness, material consumption, environmental impact, and work efficiency. An analysis of feature importance and model interpretability will be part of this task. 
-
-Validate the developed AI model using cross-validation and transfer learning in case studies. Develop practical guidelines for AI implementation, based on AI ethics and best practices. 
-
-Anticipated Outcomes: 
-
-A comprehensive AI model for intelligently optimising timber structure design. 
-
-Practical guidelines for integrating AI into timber structure design, manufacturing, and commissioning processes. 
-
-Application Requirements: 
-
-Candidates should have a Master's degree in civil engineering, computer science, or related fields. Previous experience in AI, machine learning, or structural engineering is advantageous. 
-
-Interested candidates should send their CV, motivation letter, and two reference letters to [insert email address]. The position remains open until filled, but for full consideration, please apply by [insert deadline]. 
-
-RMIT University is committed to equity, diversity, and inclusion and encourages applications from all qualified individuals. 
 # Add your social links
 social:
   - platform: github
@@ -48,12 +27,12 @@ social:
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+#google_analytics: "UA-58263416-1" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
 # Half layout
-half_side: right
+# half_side: right
 
 # Full layout
 full_text_position: right # left, right or center
